@@ -1,0 +1,5 @@
+com\jyl\toeat\dao\pojo\User.class
+com\jyl\toeat\dao\mapper\UserMapper.class
+com\jyl\toeat\controller\user\UserController.class
+com\jyl\toeat\controller\common\LearnningController.class
+com\jyl\toeat\service\user\UserService.class
